@@ -38,8 +38,8 @@ const App = () => {
           <div className="modal-content">
             <h2>Select App Icon</h2>
             <IconPicker
-              rowsInOnePage={4}
-              columnsInOnePage={7}
+              rowsInOnePage={15}
+              columnsInOnePage={15}
               iconHeight={50}
               iconWidth={50}
               pickerHeight={400}
