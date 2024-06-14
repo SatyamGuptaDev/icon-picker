@@ -36,7 +36,7 @@ const App = () => {
       {showPicker && (
         <div className="modal">
           <div className="modal-content">
-            <h2>Select App Icon</h2>
+            <h2>Select Icon</h2>
             <IconPicker
               rowsInOnePage={6}
               columnsInOnePage={6}
